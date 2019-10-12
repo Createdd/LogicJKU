@@ -13,8 +13,8 @@ could be for example:
 
 ```sh
 % SATISFIABLE formula (satisfying assignment follows)
-A = 1
-B = 1
+a = 0
+b = 0
 ```
 
 (the fist argument is the path to the executable limboole )
