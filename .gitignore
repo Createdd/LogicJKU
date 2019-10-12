@@ -2,6 +2,7 @@
 # ignore exefile
 limbooleOSX
 
+#ignore folder for grading
 WeeklyChallenge
 
 
